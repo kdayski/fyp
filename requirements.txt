@@ -1,0 +1,12 @@
+numpy
+scikit-learn
+matplotlib
+pyarrow
+pandas
+keras
+tensorflow
+seaborn
+seed
+langdetect
+pydot
+pydot-ng
