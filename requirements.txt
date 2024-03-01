@@ -10,3 +10,4 @@ seed
 langdetect
 pydot
 pydot-ng
+yfinance
